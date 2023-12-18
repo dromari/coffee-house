@@ -1,0 +1,59 @@
+@media screen and (max-width: 767px) {
+    .modal-img {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .title h1 {
+        font-size: 32px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    .body-wrapper {
+        margin: 20px 16px;
+    }
+
+    /*---------main----------*/
+
+    .drink-type {
+        gap: 5px;
+    }
+
+    .menu-cards-wrapper {
+        gap: 40px;
+    }
+
+    /*----------footer----------*/
+
+    .footer {
+        margin-top: 96px;
+    }
+
+    .footer-one-column {
+        margin-left: 16px;
+        padding-top: 61px;
+    }
+
+    .footer-two-column {
+        margin-left: 16px;
+        padding-bottom: 66px;
+        margin-top: 0px;
+    }
+
+    .social {
+        padding-bottom: 38px;
+    }
+
+    .modal {
+        margin: 0 17px;
+    }
+
+    .more-detail-position {
+        margin-right: 0px;
+    }
+
+}

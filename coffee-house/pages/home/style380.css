@@ -1,0 +1,119 @@
+@media screen and (max-width: 720px) {
+    h1 {
+        font-size: 42px;
+        line-height: 115%;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    .body-wrapper {
+        margin: 20px 16px;
+    }
+
+    /*---------header----------*/
+
+    /*------------enjoy-------------*/
+
+    .enjoy {
+        height: 552px;
+        padding: 17.35% 0 15.35% 4.35%;
+    }
+
+    .enjoy-overlay h5 {
+        margin: 18px -13px 0 0;
+    }
+
+    /*----------favorite------------*/
+
+    .text-favorite {
+        gap: 9.5%;
+    }
+
+    .slider-img {
+        width: 100%;
+    }
+
+    .arrows {
+        display: none;
+    }
+
+    /*---------------about----------------*/
+
+    .description-coffee-about {
+        margin: 15px 0 0 0;
+    }
+
+    .about-text {
+        margin-left: 15px;
+        margin-right: 12px;
+    }
+
+    .about-text h2 {
+        margin-right: 0;
+    }
+
+    .gallery-one-column,
+    .gallery-second-column {
+        width: 100%;
+    }
+
+    .about-gallery {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .gallery-img-container {
+        width: 100%;
+    }
+
+
+    /*-------------mobileApp-----------*/
+
+    .app-text {
+        margin-left: 16px;
+    }
+
+    .app-images {
+        margin-top: 42px;
+        margin-left: 17px;
+    }
+
+    .app-images img {
+        width: 96%;
+    }
+
+    .buttons-app {
+        flex-direction: column;
+    }
+
+    /*----------footer----------*/
+
+    .footer {
+        margin: 96px 16px 0 16px;
+    }
+
+    .footer-one-column {
+        margin-left: 16px;
+        padding-top: 61px;
+    }
+
+    .footer-two-column {
+        margin-left: 16px;
+        padding-bottom: 63px;
+    }
+
+    .social {
+        padding-bottom: 38px;
+    }
+
+}
+
+@media screen and (max-width: 380px) {
+
+    .line-container {
+        margin-top: -67px;
+    }
+
+}
