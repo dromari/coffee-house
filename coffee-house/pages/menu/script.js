@@ -1,4 +1,4 @@
-import data from './products.json' assert {type: 'json'};
+import data from './products.json' with { type: "json" };
 const menu = document.querySelector('.menu-cards-wrapper');
 const buttonType = document.querySelectorAll('.drink-type-button');
 const modalWrapper = document.querySelector('.modal-wrapper');
